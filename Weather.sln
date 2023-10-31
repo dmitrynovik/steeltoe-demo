@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMeteo", "OpenMeteo\Open
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherWebServer", "WeatherWebServer\WeatherWebServer.csproj", "{9599FE98-C363-4E67-8303-D76F6A3F2E2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecastServer", "WeatherForecastServer\WeatherForecastServer.csproj", "{C34432E3-1E42-43A5-ABE6-AAA0487038C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{9599FE98-C363-4E67-8303-D76F6A3F2E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9599FE98-C363-4E67-8303-D76F6A3F2E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9599FE98-C363-4E67-8303-D76F6A3F2E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C34432E3-1E42-43A5-ABE6-AAA0487038C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34432E3-1E42-43A5-ABE6-AAA0487038C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34432E3-1E42-43A5-ABE6-AAA0487038C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34432E3-1E42-43A5-ABE6-AAA0487038C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
